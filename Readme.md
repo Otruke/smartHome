@@ -9,6 +9,10 @@ License: Public Domain
 This is a Smart Home project that allows you to operate your house appliances remotely (i.e from anywhere in the world).<br>
 The project allows you to control the on anf off state of four different house gadget remotely.
 
+<p>
+    <img src="./Screenshot.png" width="200" title="smart home mobile interface">
+</p>
+
 ## Step 1: Installation
 1. Open this file <br>
 2. Edit as you like (the comments in the code will help you)
