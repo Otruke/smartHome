@@ -1,13 +1,14 @@
 #
-:Author: Rufus
-:Email:
-:Date: 21/09/2022
-:Revision: 0.0.1v
-:License: Public Domain
+>Author: Rufus
+>Email:
+>Date: 21/09/2022
+>Revision: 0.0.1v
+>License: Public Domain
 
-= Project: {Project}
 
-Describe your project
+##What the project does
+This is a Smart Home project that allows you to operate your house appliances remotely (i.e from anywhere in the world).<br>
+The project allows you to control the on anf off state of four different house gadget remotely.
 
 ## Step 1: Installation
 Please describe the steps to install this project.
